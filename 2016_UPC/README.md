@@ -8,7 +8,7 @@ Lectures slides
 * [3](./conic3.pdf)
 * [4](./conic4.pdf)
 
-Suplemantary material
+Suplementary material
 =====================
 
 * [The MOSEK modeling cookbook](http://docs.mosek.com/modeling-cookbook/)
