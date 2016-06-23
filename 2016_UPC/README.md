@@ -1,5 +1,7 @@
 # Cource at UPC Barcelona June 20-22, 2016
 
+[Course page @UPC](https://mesioupcub.masters.upc.edu/en/x-summer-school-2016/courses/introduction-to-conic-optimization)
+
 Lectures slides
 ===============
 
@@ -13,6 +15,6 @@ Suplementary material
 
 * [The MOSEK modeling cookbook](http://docs.mosek.com/modeling-cookbook/)
 * [Nemirovski on conic optimization](http://www2.isye.gatech.edu/~nemirovs/ICMNemirovski.pdf)
-* [Vanderberghe's slides](http://www.seas.ucla.edu/~vandenbe/236C/lectures/conic.pdf)
-
+* [Vanderberghe's slides on conic optimization](http://www.seas.ucla.edu/~vandenbe/236C/lectures/conic.pdf)
+* [Vanderberghe's slides on symmetric cones](http://www.seas.ucla.edu/~vandenbe/236C/lectures/symmetric.pdf)
 
