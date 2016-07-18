@@ -52,6 +52,6 @@ if __name__ == '__main__':
     X,t = nearestcorr(A)
 
     print("--- Nearest Correlation ---")
-    print("X = ",X)
+    print("X = ",X.reshape((5,5)))
     print("t = ",t)
     
